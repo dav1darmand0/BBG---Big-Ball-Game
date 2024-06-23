@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BBG - Big Ball Game/1.0.0": {
+        "runtime": {
+          "BBG - Big Ball Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BBG - Big Ball Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

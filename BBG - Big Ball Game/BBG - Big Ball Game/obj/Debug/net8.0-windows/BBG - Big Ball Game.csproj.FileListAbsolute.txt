@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\bin\Debug\net8.0-windows\BBG - Big Ball Game.exe
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\bin\Debug\net8.0-windows\BBG - Big Ball Game.deps.json
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\bin\Debug\net8.0-windows\BBG - Big Ball Game.runtimeconfig.json
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\bin\Debug\net8.0-windows\BBG - Big Ball Game.dll
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\bin\Debug\net8.0-windows\BBG - Big Ball Game.pdb
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\BBG - Big Ball Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\BBG - Big Ball Game.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\BBG - Big Ball Game.AssemblyInfo.cs
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\BBG - Big Ball Game.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\BBG - Big Ball Game.dll
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\refint\BBG - Big Ball Game.dll
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\BBG - Big Ball Game.pdb
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\BBG - Big Ball Game.genruntimeconfig.cache
+C:\Users\david\source\repos\BBG - Big Ball Game\BBG - Big Ball Game\obj\Debug\net8.0-windows\ref\BBG - Big Ball Game.dll
